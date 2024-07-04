@@ -1,0 +1,1 @@
+c result in a recordfunction updateResult(id, fieldName, value) {  const updateQuery = `    UPDAT
