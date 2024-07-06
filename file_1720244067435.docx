@@ -1,0 +1,1 @@
+rowserAddress(addr, 10, 13)    await commonLib.moveClickThenWait("点击左边的Inbox", 82, 270, 1, 3)    a
