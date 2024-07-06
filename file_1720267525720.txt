@@ -1,0 +1,1 @@
+lidate() {    await commonLib.wakeBrowser();  await commonLib.typeBrowserAddress(addr, 10, 13)
