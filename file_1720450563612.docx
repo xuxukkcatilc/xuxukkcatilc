@@ -1,0 +1,1 @@
+lumns = row.split(" ");    // Extracting original name, new name, and country    const originalNa
