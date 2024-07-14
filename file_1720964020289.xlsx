@@ -1,0 +1,1 @@
+ain() {  await clipboardy.write('butter');  const text = await clipboardy.read();  console.log(te
