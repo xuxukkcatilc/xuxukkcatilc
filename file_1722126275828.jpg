@@ -1,0 +1,1 @@
+lickThenWait("第一个tab左键", 131, 55, 5, 7)    if (req.success) {      console.log('开启浏览器成功===>', id)
