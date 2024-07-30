@@ -1,0 +1,1 @@
+ , just extract the key split by '[' , keep the first part, if not '[' exists, then keep the whole s
