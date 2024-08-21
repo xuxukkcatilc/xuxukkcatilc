@@ -1,0 +1,1 @@
+tion routine4() {    console.log("开始-------------将所有邮件设置为星标")    await commonLib.wakeBrowser();  
