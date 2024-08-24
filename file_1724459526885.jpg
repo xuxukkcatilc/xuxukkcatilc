@@ -1,0 +1,1 @@
+    await commonLib.refresh()  await commonLib.moveClickThenWait("点击左下角的profile", 92, 496, 10, 12)
