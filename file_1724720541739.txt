@@ -1,0 +1,1 @@
+a random name (here using a simple timestamp as an example)  const randomName = `file_${Date.now()}
