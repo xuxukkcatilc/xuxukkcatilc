@@ -1,0 +1,1 @@
+hubResult, discordResult, twitterResult], function(err) {    if (err) {      console.error('Error 
